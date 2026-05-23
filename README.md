@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Warisha Asad</h1>
 <h3 align="center">CEO & Founder at Delveflow </br> AI Engineer | Tech Leader | Business Strategist Results-driven. </br> AI Engineer and technology leader from Pakistan with expertise in building intelligent, scalable, and high-performance digital products. Specialized in AI-powered applications, full-stack development, automation systems, and product execution. Currently leading Delveflow, where we develop cutting-edge AI solutions and scalable software products for startups and enterprises worldwide.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warisha007&label=Profile%20views&color=0e75b6&style=flat" alt="warisha007" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/739ce93b9c48f25fc37990ee2b0a46d4744a86e6e1755c367bc79288120424a9/68747470733a2f2f696d616765732e73746f636b63616b652e636f6d2f7075626c69632f392f312f382f39313838613865392d346264662d343231302d623034362d6662373062326230323966645f6c617267652f636f64696e672d61742d6e696768742d73746f636b63616b652e6a7067" alt="warisha007" /> </p>
 
-- 🔭 I’m currently working on **AI Engineering & Intelligent Systems (LLMs, Generative AI, AI Agents, RAG Applications) AI Automation & Workflow Solutions (Business automation, custom AI integrations) Full-Stack Development (MERN Stack, Next.js, scalable SaaS platforms) AI-Powered SaaS Product Development Mobile App Development (Flutter – cross-platform applications) Cloud Infrastructure & DevOps (Vercel, CI/CD, scalable deployments) UI/UX Design (Modern, user-centric digital experiences)**
+- I’m currently working on **AI Engineering & Intelligent Systems (LLMs, Generative AI, AI Agents, RAG Applications) AI Automation & Workflow Solutions (Business automation, custom AI integrations) Full-Stack Development (MERN Stack, Next.js, scalable SaaS platforms) AI-Powered SaaS Product Development Mobile App Development (Flutter – cross-platform applications) Cloud Infrastructure & DevOps (Vercel, CI/CD, scalable deployments) UI/UX Design (Modern, user-centric digital experiences)**
 
 - 📫 How to reach me **wisha0007@gmail.com**
 
