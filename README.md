@@ -1,9 +1,59 @@
 <h1 align="center">Hi, I'm Warisha Asad</h1>
 <h3 align="center">CEO & Founder at Delveflow </br> AI Engineer | Tech Leader | Business Strategist Results-driven. </br> AI Engineer and technology leader from Pakistan with expertise in building intelligent, scalable, and high-performance digital products. Specialized in AI-powered applications, full-stack development, automation systems, and product execution. Currently leading Delveflow, where we develop cutting-edge AI solutions and scalable software products for startups and enterprises worldwide.</h3>
 
-<p align="right"> <img src="https://camo.githubusercontent.com/739ce93b9c48f25fc37990ee2b0a46d4744a86e6e1755c367bc79288120424a9/68747470733a2f2f696d616765732e73746f636b63616b652e636f6d2f7075626c69632f392f312f382f39313838613865392d346264662d343231302d623034362d6662373062326230323966645f6c617267652f636f64696e672d61742d6e696768742d73746f636b63616b652e6a7067" alt="warisha007" /> </p>
+<table>
+<tr>
+<td width="40%" valign="top">
 
-I’m currently working in the following domains: </br> 1) AI Engineering & Intelligent Systems (LLMs, Generative AI, AI Agents, RAG Applications) </br> 2) AI Automation & Workflow Solutions (Business automation, custom AI integrations </br> 3) Full-Stack Development (MERN Stack, Next.js, scalable SaaS platforms) </br> 4) AI-Powered SaaS Product Development </br> 5) Mobile App Development (Flutter – cross-platform applications) </br> 6) Cloud Infrastructure & DevOps (Vercel, CI/CD, scalable deployments) </br> 7) UI/UX Design (Modern, user-centric digital experiences)
+<img 
+src="https://camo.githubusercontent.com/739ce93b9c48f25fc37990ee2b0a46d4744a86e6e1755c367bc79288120424a9/68747470733a2f2f696d616765732e73746f636b63616b652e636f6d2f7075626c69632f392f312f382f39313838613865392d346264662d343231302d623034362d6662373062326230323966645f6c617267652f636f64696e672d61742d6e696768742d73746f636b63616b652e6a7067" 
+alt="warisha007" 
+width="100%" 
+/>
+
+</td>
+
+<td width="60%" valign="top">
+
+<h3>Currently Working On</h3>
+
+1) AI Engineering & Intelligent Systems  
+• LLMs  
+• Generative AI  
+• AI Agents  
+• RAG Applications  
+
+<br/>
+2) I Automation & Workflow Solutions  
+• Business automation  
+• Custom AI integrations  
+
+<br/>
+3) Full-Stack Development  
+• MERN Stack  
+• Next.js  
+• Scalable SaaS platforms  
+
+<br/>
+
+4) AI-Powered SaaS Product Development  
+
+<br/>
+5) Mobile App Development  
+• Flutter cross-platform applications  
+
+<br/>
+6) Cloud Infrastructure & DevOps  
+• Vercel  
+• CI/CD  
+• Scalable deployments  
+
+<br/>
+7) UI/UX Design  
+• Modern digital experiences  
+</td>
+</tr>
+</table>
 
 How to reach me **wisha0007@gmail.com**
 
