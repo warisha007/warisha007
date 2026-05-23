@@ -11,14 +11,13 @@ How to reach me **wisha0007@gmail.com**
 <table>
   <tr>
     <td>
-      <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/warisha-asad-6259203b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/warisha-asad-6259203b0/" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/warisha-asad-6259203b0/" target="blank">  
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/warisha-asad-6259203b0/" height="30" width="40" /></a>
     </td>
   </tr>
 <tr>
   <td>
     <a href="https://instagram.com/https://www.instagram.com/fairyyy___17?igsh=mtlonzd6c3o1znnjzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fairyyy___17?igsh=mtlonzd6c3o1znnjzg==" height="30" width="40" /></a>
-</p>
   </td>
 </tr>
 </table>
