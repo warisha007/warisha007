@@ -5,7 +5,7 @@
 
 I’m currently working in the following domains: </br> 1) AI Engineering & Intelligent Systems (LLMs, Generative AI, AI Agents, RAG Applications) </br> 2) AI Automation & Workflow Solutions (Business automation, custom AI integrations </br> 3) Full-Stack Development (MERN Stack, Next.js, scalable SaaS platforms) </br> 4) AI-Powered SaaS Product Development </br> 5) Mobile App Development (Flutter – cross-platform applications) </br> 6) Cloud Infrastructure & DevOps (Vercel, CI/CD, scalable deployments) </br> 7) UI/UX Design (Modern, user-centric digital experiences)
 
-- 📫 How to reach me **wisha0007@gmail.com**
+How to reach me **wisha0007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
